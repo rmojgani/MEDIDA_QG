@@ -1,4 +1,4 @@
-# Verbose Repo Template Name
+# MEDIDA for QG | will be update, meanwhile contact the corresponding author
 
 #### [[project website]](http://pedram.rice.edu/team/)
 <img src="docs/repo_template.png" width="250">
@@ -78,19 +78,14 @@ Latex
 ```
 
 ## Citation
-- Lubis, Sandro W., and Pedram Hassanzadeh. " An Eddy–Zonal Flow Feedback Model for Propagating Annular Modes", Journal of the Atmospheric Sciences 78, 1 (2021).([url](https://doi.org/10.1175/JAS-D-20-0214.1))<details><summary>BibTeX</summary><pre>
-@article { Lubis_AMS_2021,
-      author = {Sandro W. Lubis and Pedram Hassanzadeh},
-      title = {An Eddy–Zonal Flow Feedback Model for Propagating Annular Modes},
-      journal = {Journal of the Atmospheric Sciences},
-      year = {2021},
-      publisher = {American Meteorological Society},
-      address = {Boston MA, USA},
-      volume = {78},
-      number = {1},
-      doi = {10.1175/JAS-D-20-0214.1},
-      pages= {249 - 267},
-      url = "https://journals.ametsoc.org/view/journals/atsc/78/1/jas-d-20-0214.1.xml"
+- Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh",Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case, (2023).([url]([https://arxiv.org/abs/2309.13211](https://arxiv.org/abs/2309.13211)))<details><summary>BibTeX</summary><pre>
+@misc{mojgani2023interpretable,
+      title={Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case}, 
+      author={Rambod Mojgani and Ashesh Chattopadhyay and Pedram Hassanzadeh},
+      year={2023},
+      eprint={2309.13211},
+      archivePrefix={arXiv},
+      primaryClass={physics.comp-ph}
 }</pre></details>
 
 ## References
