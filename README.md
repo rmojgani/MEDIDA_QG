@@ -62,18 +62,13 @@ def myfun():
 Latex 
 
 ```bibtex
-@article { Lubis_AMS_2021,
-      author = {Sandro W. Lubis and Pedram Hassanzadeh},
-      title = {An Eddy–Zonal Flow Feedback Model for Propagating Annular Modes},
-      journal = {Journal of the Atmospheric Sciences},
-      year = {2021},
-      publisher = {American Meteorological Society},
-      address = {Boston MA, USA},
-      volume = {78},
-      number = {1},
-      doi = {10.1175/JAS-D-20-0214.1},
-      pages= {249 - 267},
-      url = "https://journals.ametsoc.org/view/journals/atsc/78/1/jas-d-20-0214.1.xml"
+@misc{mojgani2023interpretable,
+      title={Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case}, 
+      author={Rambod Mojgani and Ashesh Chattopadhyay and Pedram Hassanzadeh},
+      year={2023},
+      eprint={2309.13211},
+      archivePrefix={arXiv},
+      primaryClass={physics.comp-ph}
 }
 ```
 
