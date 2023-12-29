@@ -3,4 +3,5 @@ Python >=3.7.0
 scipy >= 1.8.0
 numpy >= 1.22.3
 torch >= 1.11
+random-fourier-features-pytorch =1.0.1
 

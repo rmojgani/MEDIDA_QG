@@ -31,6 +31,7 @@ range of scales, leading to successful error discoveries</li>
 	- [scipy](https://pypi.org/project/scipy/)
 	- [numpy](https://pypi.org/project/numpy/)
 - [Pytroch](https://pytorch.org/docs/1.11/)
+- [RFF in Pytroch](https://github.com/jmclong/random-fourier-features-pytorch)
 
 ## Experiments
 ### Case 1
