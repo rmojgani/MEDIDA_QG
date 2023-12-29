@@ -1,8 +1,8 @@
-# MEDIDA for QG | will be update, meanwhile contact the corresponding author
+# MEDIDA for QG
 
 #### [[project website]](http://pedram.rice.edu/team/)
-<img src="docs/MEDIDA_QG_Schematic_Steps.png" width="250">
-<img src="docs/schematic_interp.png" width="250">
+<img src="docs/MEDIDA_QG_Schematic_Steps.png" width="350">
+<img src="docs/schematic_interp.png" width="350">
 
 ## Table of contents
 * [Introduction](#Introduction)
@@ -27,37 +27,20 @@ This is the introduction. We plan to
 <!-- These are examples,
 	add or remove as appropriate -->
 
-- Matlab R2016+
 - python 3.6
 	- [scipy](https://pypi.org/project/scipy/)
 	- [numpy](https://pypi.org/project/numpy/)
-- [TensorFlow 2](https://www.tensorflow.org/install)
-- [Keras 2.3.1](https://pypi.org/project/Keras/)
+- [Pytroch](https://pytorch.org/docs/1.11/)
 
 ## Experiments
 ### Case 1
-Case 1 is disscused here [Case 1 Location](./experiments/case1) 
+Case 1 is disscused here [Case 1 Location](./experiments/QG) 
 
-open matlab
-```
-matlab -nodisplay -nosplash
-```
-
-Run the main file
-```
-python main_example.py
-```
-
-Post process
-```
-python post_example.py
-```
 
 Python code
 
-```python
-def myfun():
-   print('Hello!')
+```bash
+will be updated
 ```
 
 Latex 
@@ -84,11 +67,5 @@ Latex
       primaryClass={physics.comp-ph}
 }</pre></details>
 
-## References
-For a guide to markdown syntax see  
-
-```
-https://www.markdownguide.org/basic-syntax/
-```
 
 
