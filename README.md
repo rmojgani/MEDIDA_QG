@@ -1,7 +1,8 @@
 # MEDIDA for QG | will be update, meanwhile contact the corresponding author
 
 #### [[project website]](http://pedram.rice.edu/team/)
-<img src="docs/repo_template.png" width="250">
+<img src="docs/MEDIDA_QG_Schematic_Steps.png" width="250">
+<img src="docs/schematic_interp.png" width="250">
 
 ## Table of contents
 * [Introduction](#Introduction)
