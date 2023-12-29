@@ -45,9 +45,13 @@ will be updated
 
 Latex 
 
+
+
+## Citation
+- Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh",Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case, (2023).([url]([https://arxiv.org/abs/2309.13211](https://arxiv.org/abs/2309.13211)))<details><summary>BibTeX</summary><pre>
 ```bibtex
 @misc{mojgani2023interpretable,
-      title={Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case}, 
+      title={Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: {A} quasi-geostrophic turbulence test case}, 
       author={Rambod Mojgani and Ashesh Chattopadhyay and Pedram Hassanzadeh},
       year={2023},
       eprint={2309.13211},
@@ -55,17 +59,7 @@ Latex
       primaryClass={physics.comp-ph}
 }
 ```
-
-## Citation
-- Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh",Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case, (2023).([url]([https://arxiv.org/abs/2309.13211](https://arxiv.org/abs/2309.13211)))<details><summary>BibTeX</summary><pre>
-@misc{mojgani2023interpretable,
-      title={Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case}, 
-      author={Rambod Mojgani and Ashesh Chattopadhyay and Pedram Hassanzadeh},
-      year={2023},
-      eprint={2309.13211},
-      archivePrefix={arXiv},
-      primaryClass={physics.comp-ph}
-}</pre></details>
+</pre></details>
 
 
 
