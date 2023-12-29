@@ -10,17 +10,16 @@
 * [Experiments](#Experiments)
     * [Case 1](#Case-1)
 * [Citation](#Citation)
-* [References](#References)
 
 ## Introduction
-<!-- An abstract length introduction 
-	to the project -->
-This is the introduction. We plan to
+Key points
 <ul>
-<li>Do the first item,</li>
-<li>Test the second item,</li>
-<li>Investigate the third item,</li>
-<li>Code the fourth item.</li>
+<li>Model error discovery with interpretability and data assimilation (MEDIDA) is scaled
+up to geostrophic turbulence and sparse observations</li>
+<li>Naive use of neural nets (NNs) as interpolator does not capture small scales due to
+spectral bias, failing discoveries of closed-form errors</li>
+<li>Reducing this bias using random Fourier features enables NNs to represent the full
+range of scales, leading to successful error discoveries</li>
 </ul>
 
 ## Requirements
@@ -42,11 +41,6 @@ Python code
 ```bash
 will be updated
 ```
-
-Latex 
-
-
-
 ## Citation
 - Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh",Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case, (2023).([url]([https://arxiv.org/abs/2309.13211](https://arxiv.org/abs/2309.13211)))<details><summary>BibTeX</summary><pre>@misc{mojgani2023interpretable,
       title={Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: {A} quasi-geostrophic turbulence test case}, 
