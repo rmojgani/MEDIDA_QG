@@ -14,7 +14,7 @@
 ## Introduction
 Key points
 <ul>
-<li>Model error discovery with interpretability and data assimilation (MEDIDA) is scaled
+<li>Model error discovery with interpretability and data assimilation ([MEDIDA](https://github.com/envfluids/MEDIDA)) is scaled
 up to geostrophic turbulence and sparse observations</li>
 <li>Naive use of neural nets (NNs) as interpolator does not capture small scales due to
 spectral bias, failing discoveries of closed-form errors</li>
