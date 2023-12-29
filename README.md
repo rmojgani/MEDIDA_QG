@@ -10,11 +10,12 @@
 * [Experiments](#Experiments)
     * [Case 1](#Case-1)
 * [Citation](#Citation)
+* [References](#References)
 
 ## Introduction
 Key points
 <ul>
-<li>Model error discovery with interpretability and data assimilation, [MEDIDA](https://github.com/envfluids/MEDIDA), is scaled
+<li>Model error discovery with interpretability and data assimilation, [MEDIDA](https://github.com/envfluids/MEDIDA)[1]* is scaled
 up to geostrophic turbulence and sparse observations</li>
 <li>Naive use of neural nets (NNs) as interpolator does not capture small scales due to
 spectral bias, failing discoveries of closed-form errors</li>
@@ -41,8 +42,11 @@ Python code
 ```bash
 will be updated
 ```
+
 ## Citation
-- Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh",Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case, (2023).([url]([https://arxiv.org/abs/2309.13211](https://arxiv.org/abs/2309.13211)))<details><summary>BibTeX</summary><pre>@misc{mojgani2023interpretable,
+- [Mojgani, R.](https://www.rmojgani.com), [Chattopadhyay, A.](https://scholar.google.com/citations?user=wtHkCRIAAAAJ&hl=en), and [Hassanzadeh, P.
+](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en),
+[**Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case**](https://arxiv.org/abs/2309.13211), (2023).([url]([https://arxiv.org/abs/2309.13211](https://arxiv.org/abs/2309.13211)))<details><summary>BibTeX</summary><pre>@misc{mojgani2023interpretable,
       title={Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: {A} quasi-geostrophic turbulence test case}, 
       author={Rambod Mojgani and Ashesh Chattopadhyay and Pedram Hassanzadeh},
       year={2023},
@@ -52,4 +56,22 @@ will be updated
 }</pre></details>
 
 
+## References
 
+- \[1\] [Mojgani, R.](https://www.rmojgani.com), [Chattopadhyay, A.](https://scholar.google.com/citations?user=wtHkCRIAAAAJ&hl=en), and [Hassanzadeh, P.
+](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en),
+[**Closed-form discovery of structural errors in models of chaotic systems by integrating Bayesian sparse regression and data assimilation.**](https://doi.org/10.1063/5.0091282), Chaos 32, 061105 (2022) 
+arXiv:2110.00546.
+([Download](https://aip.scitation.org/doi/pdf/10.1063/5.0091282))<details><summary>BibTeX</summary><pre>
+@article{Mojgani_Chaos_2022,
+author = {Mojgani,Rambod  and Chattopadhyay,Ashesh  and Hassanzadeh,Pedram },
+title = {Discovery of interpretable structural model errors by combining {B}ayesian sparse regression and data assimilation: {A} chaotic {K}uramoto–{S}ivashinsky test case},
+journal = {Chaos: {A}n Interdisciplinary Journal of Nonlinear Science},
+volume = {32},
+number = {6},
+pages = {061105},
+year = {2022},
+doi = {10.1063/5.0091282},
+URL = {https://doi.org/10.1063/5.0091282},
+eprint = {arXiv:2110.00546}
+}</pre></details>
