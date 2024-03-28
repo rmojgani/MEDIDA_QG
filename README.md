@@ -76,6 +76,6 @@ number = {6},
 pages = {061105},
 year = {2022},
 doi = {10.1063/5.0091282},
-URL = {https://doi.org/10.1063/5.0091282},
+URL = {https://doi.org/10.1063/5.0091282 },
 eprint = {arXiv:2110.00546}
 }</pre></details>
