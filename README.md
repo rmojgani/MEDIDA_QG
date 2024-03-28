@@ -47,15 +47,18 @@ will be updated
 ## Citation
 - [Mojgani, R.](https://www.rmojgani.com), [Chattopadhyay, A.](https://scholar.google.com/citations?user=wtHkCRIAAAAJ&hl=en), and [Hassanzadeh, P.
 ](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en),
-[**Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case**](https://arxiv.org/abs/2309.13211), (2023).([url]([https://arxiv.org/abs/2309.13211](https://arxiv.org/abs/2309.13211)))<details><summary>BibTeX</summary><pre>@misc{mojgani2023interpretable,
-      title={Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: {A} quasi-geostrophic turbulence test case}, 
-      author={Rambod Mojgani and Ashesh Chattopadhyay and Pedram Hassanzadeh},
-      year={2023},
-      eprint={2309.13211},
-      archivePrefix={arXiv},
-      primaryClass={physics.comp-ph}
+[**Interpretable structural model error discovery from sparse assimilation increments using spectral bias-reduced neural networks: A quasi-geostrophic turbulence test case**](https://doi.org/10.1029/2023MS004033), (2023).([url]([https://doi.org/10.1029/2023MS004033](https://doi.org/10.1029/2023MS004033)))<details><summary>BibTeX</summary><pre>@article{Mojgani_JAMES_2023,
+author = {Mojgani, Rambod and Chattopadhyay, Ashesh and Hassanzadeh, Pedram},
+title = {Interpretable Structural Model Error Discovery From Sparse Assimilation Increments Using Spectral Bias-Reduced Neural Networks: {A} Quasi-Geostrophic Turbulence Test Case},
+journal = {Journal of Advances in Modeling Earth Systems},
+volume = {16},
+number = {3},
+pages = {e2023MS004033},
+keywords = {model error, spectral bias, data assimilation, interpolation, neural network, bias},
+doi = {https://doi.org/10.1029/2023MS004033},
+note = {e2023MS004033 2023MS004033},
+year = {2024}
 }</pre></details>
-
 
 ## References
 
